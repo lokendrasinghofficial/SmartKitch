@@ -19,5 +19,12 @@ google-services.json
 # OS files
 .DS_Store
 
+
 # Logs
 *.log
+
+# Heap dumps
+*.hprof
+
+# Release builds
+app/release/
