@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local config
+local.properties
+
+# Firebase (IMPORTANT)
+google-services.json
+
+# Keystore (VERY IMPORTANT)
+*.jks
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
