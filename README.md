@@ -43,7 +43,7 @@ The app is especially built for **households and students living in dormitories*
 * Google Sign-In
 * LINE Login for Taiwan Users
 
-### 🌍 Localization & Preferences
+###  Localization & Preferences
 
 * Multi-language support (English + planned Traditional Chinese)
 * Cuisine preferences
@@ -68,7 +68,7 @@ The app is especially built for **households and students living in dormitories*
 
 ---
 
-## 🧱 Project Architecture
+##  Project Architecture
 
 ```
 com.smartkitch.app
@@ -116,7 +116,7 @@ com.smartkitch.app
 
 ---
 
-## 🔒 Privacy & Security
+##  Privacy & Security
 
 * User data is securely stored using Firebase
 * No sensitive information is shared with third parties
@@ -146,7 +146,7 @@ as an academic and practical project aimed at solving real-life problems faced b
 
 ---
 
-## 📦 Release & Distribution
+##  Release & Distribution
 
 * Distributed via **Google Play Store**
 * Internal testing enabled through Play Console
